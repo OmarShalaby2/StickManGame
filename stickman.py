@@ -1,4 +1,4 @@
-'''from tkinter import *
+from tkinter import *
 import random
 import time
 
@@ -181,10 +181,9 @@ g.sprites.append(platform10)
 
 stick = StickFigureSprite(g)
 
-g.mainloop()'''
+g.mainloop()
 
 '''c1 = Coords(40, 40, 100, 100)
 c2 = Coords(50, 50, 150, 150)
 print(c1.x1)
 print(within_x(c1, c2))'''
-
