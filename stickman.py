@@ -182,7 +182,7 @@ g.sprites.append(platform10)
 stick = StickFigureSprite(g)
 
 g.mainloop()
-
+print("hi")
 '''c1 = Coords(40, 40, 100, 100)
 c2 = Coords(50, 50, 150, 150)
 print(c1.x1)
